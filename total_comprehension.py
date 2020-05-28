@@ -27,4 +27,4 @@ print(f'FILTERED LIST W/O MATCHES:', greater_than_eight)
 #------------PART 4 ------------
 mapped_and_filtered = [(I*100) for I in greater_than_three]
 print("--------------")
-print(f'FILTERED LIST W/O MATCHES:', mapped_and_filtered)
+print(f'MAPPED AND FILTERED LISTS:', mapped_and_filtered)
